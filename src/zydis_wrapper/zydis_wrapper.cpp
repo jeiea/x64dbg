@@ -1,5 +1,6 @@
 #include "zydis_wrapper.h"
 #include <Zydis/Formatter.h>
+#include <string>
 #include <windows.h>
 
 bool Zydis::mInitialized = false;

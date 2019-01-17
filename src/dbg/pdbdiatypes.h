@@ -10,7 +10,6 @@
 #include <map>
 #include <windows.h>
 #include <functional>
-#include <string>
 
 enum class DiaSymbolType
 {
